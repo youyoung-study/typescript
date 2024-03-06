@@ -1,6 +1,5 @@
 # 우아한 타입 스크립트 with 리액트
 
----
 
 - [책정보](https://product.kyobobook.co.kr/detail/S000210716282)
 
